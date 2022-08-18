@@ -1,1 +1,1 @@
-# react-component-template
+# Template for a simple functional react component
